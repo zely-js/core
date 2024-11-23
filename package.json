@@ -18,7 +18,7 @@
     "@typescript-eslint/parser": "^7.0.1",
     "@yarnpkg/sdks": "^3.1.0",
     "asto": "^0.1.0",
-    "conventional-changelog-conventionalcommits": "^7.0.2",
+    "conventional-changelog-conventionalcommits": "^8.0.0",
     "cross-env": "^7.0.3",
     "esbuild": "^0.20.1",
     "esbuild-node-externals": "^1.9.0",
