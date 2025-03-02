@@ -7,7 +7,7 @@
   "dependencies": {
     "@zely-js/logger": "4.0.0-next.15",
     "@zept/path-regexp": "^0.0.1",
-    "chokidar": "3.6.0",
+    "chokidar": "4.0.3",
     "esbuild": "^0.24.0",
     "mime-types": "^2.1.35",
     "segify": "^0.0.0-beta.17",
